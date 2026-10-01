@@ -1,0 +1,21 @@
+<svg
+  width="160"
+  height="80"
+  viewBox="0 0 160 80"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Background -->
+  <rect width="160" height="80" fill="#ffffff"/>
+
+  <!-- NisMua Logo -->
+  <text
+    x="80"
+    y="48"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="22"
+    font-weight="400"
+    letter-spacing="0.5"
+    fill="#333333"
+  >NisMua</text>
+</svg>
